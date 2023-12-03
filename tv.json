@@ -70,29 +70,6 @@
           "urls": [
             "http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8"
           ]
-        },
-          {
-          "name": "小涛涛年龄段专用台",
-          "urls": [
-            "https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1701519169&sign=29278d29bad1b322349b0f2299115fc9"
-          ]
-        },{
-          "name": "小涛涛大棒子KBS台",
-          "urls": [
-            "http://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8"
-          ]
-        },
-          {
-          "name": "小涛涛大棒子2台",
-          "urls": [
-            "http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8"
-          ]
-        },
-        {
-          "name": "小日子台",
-          "urls": [
-            "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8"
-          ]
         }
       ]
     }
